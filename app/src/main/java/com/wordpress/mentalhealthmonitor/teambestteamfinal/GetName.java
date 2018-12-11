@@ -39,5 +39,6 @@ public class GetName extends AppCompatActivity {
         String str = myText.getText().toString();
         editTextString = str;
         startActivity(intent);
+        finish();
     }
 }

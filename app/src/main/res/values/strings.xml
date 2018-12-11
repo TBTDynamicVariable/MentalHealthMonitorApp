@@ -2,4 +2,7 @@
     <string name="app_name">TeamBestTeamFinal</string>
     <string name="name">Name</string>
     <string name="what_would_you_like_to_do">What would you like to do?</string>
+    <string name="hrv">HRV</string>
+    <string name="heartrate">HeartRate</string>
+    <string name="this_is_your_journal_entry">This is your journal Entry</string>
 </resources>
